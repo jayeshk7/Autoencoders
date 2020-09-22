@@ -1,2 +1,16 @@
 *.ipynb_checkpoints
 .vscode
+*.vscode
+*.pyc
+*.pyo
+*.ipynb_checkpoints
+.installed.cfg
+bin
+develop-eggs
+dist
+downloads
+eggs
+parts
+src/*.egg-info
+__pycache__/
+*.py[cod]
