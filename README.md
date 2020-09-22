@@ -4,8 +4,8 @@ PyTorch implementation of various autoencoder architectures using the MNIST data
 *Results are in the jupyter notebooks*
 
 ### Architectures implemented :
-- [x] Vanilla autoencoder
-- [x] Denoising autoencoder
+1. Vanilla autoencoder ([using FCN](https://github.com/jayeshk7/Autoencoders/blob/master/Simple%20Autoencoder.ipynb))
+2. Denoising autoencoder ([using FCN](https://github.com/jayeshk7/Autoencoders/blob/master/Denoising%20AE.ipynb))([using convolutions](https://github.com/jayeshk7/Autoencoders/blob/master/Denoise%20using%20conv.py))
 
 ### TO-DO :
 - [ ] Sparse autoencoder 
